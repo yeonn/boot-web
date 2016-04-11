@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;lalaController.java&apos; to &apos;boot_web/src/main/java/kr.kesti.spring.web&apos;&#x0D;&#x0A;- Original project: &apos;boot-web&apos;&#x0D;&#x0A;- Destination element: &apos;boot_web/src/main/java/kr.kesti.spring.web&apos;&#x0D;&#x0A;- Original element: &apos;kr.kesti.spring.web.lalaController.java&apos;" description="Copy compilation unit" destination="=boot_web/src\/main\/java&lt;kr.kesti.spring.web" element1="/src\/main\/java&lt;kr.kesti.spring.web{lalaController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1460077662383" units="1" version="1.0"/>
+</session>
